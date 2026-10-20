@@ -34,6 +34,7 @@ documentados ao longo da trilha de aprendizagem.
 
 ## Contato
 
-LinkedIn: https://www.linkedin.com/in/rodrigo-rissetto-terra/
-GitHub: https://github.com/rodrigorissettoterra
+LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/rodrigo-rissetto-terra/)
+GitHub: [Meu GitHub](https://github.com/rodrigorissettoterra)
+
 
